@@ -1,4 +1,5 @@
-# Event Management
+# Event Management System
+
 
 * setup the database before running the project.
 
