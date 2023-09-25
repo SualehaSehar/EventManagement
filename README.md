@@ -1,6 +1,8 @@
 # Event Management
 
 * setup the database before running the project.
+
+# Features:
   
 * Developed event management software with swing components for UI.
 
